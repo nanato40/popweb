@@ -1,7 +1,7 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 Sistema de listagem de filmes e series <br>
-Tecnologias: Laravel Framework
+Tecnologias: Laravel Framework, Materialize
 
 Interfaces: 
 ![1](https://user-images.githubusercontent.com/35781248/35456129-9b6a3ac2-02bb-11e8-91c6-40503688a44e.jpg)
