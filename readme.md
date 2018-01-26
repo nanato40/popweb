@@ -1,7 +1,7 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 Sistema de listagem de filmes e series <br>
-Tecnologias: Laravel Framework, Materialize
+Tecnologias: Laravel Framework, Materialize <br>
 Descrição: Consumindo API Popcorn com Laravel Framework
 
 Interfaces: 
