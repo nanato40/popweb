@@ -1,6 +1,6 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-Sistema de listagem de filmes e series 
+Sistema de listagem de filmes e series <br>
 Tecnologias: Laravel Framework
 
 Interfaces: 
